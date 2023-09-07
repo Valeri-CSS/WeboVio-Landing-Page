@@ -33,9 +33,9 @@ Tablet and Mobile (Landing Page)
 
 ### Links
 
-Live Website at: https://valeri-css.github.io/Full-Movie-Website-15/
+Live Website at: https://valeri-css.github.io/WeboVio-Landing-Page-16/
 
-Live Solution : https://github.com/Valeri-CSS/Full-Movie-Website-15
+Live Solution : https://github.com/Valeri-CSS/WeboVio-Landing-Page-16
 
 
 ### Build with
