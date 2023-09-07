@@ -18,14 +18,14 @@ This is a Full Adaptive Cretive Agency Landing page, and is suitable for every k
 Desktop (Landing Page)
 
 
-![Desktop Screenshot Landing Page](https://github.com/Valeri-CSS/Full-Movie-Website-15/assets/116646278/34e578b1-05ed-4592-90b8-6eeb210188ed)
+![Desktop](https://github.com/Valeri-CSS/WeboVio-Landing-Page/assets/116646278/af329527-1cdf-4752-bb25-a1b115b06d26)
 
 
 Tablet and Mobile (Landing Page)
 
-![Tablet Screenshot Landing Page](https://github.com/Valeri-CSS/Full-Movie-Website-15/assets/116646278/91ea98f3-4bf2-4cc0-8dfd-0c1d26eb266e)
+![Tablet](https://github.com/Valeri-CSS/WeboVio-Landing-Page/assets/116646278/1504af94-a038-4533-959d-f6100fbe7097)
 
-![Mobile Screenshot Landing Page](https://github.com/Valeri-CSS/Full-Movie-Website-15/assets/116646278/c58d621d-2a54-4ce8-99e6-16f3c920c0a2)
+![Mobile](https://github.com/Valeri-CSS/WeboVio-Landing-Page/assets/116646278/99ba5627-ed9a-441f-b35d-16aa478b3e43)
 
 
 
