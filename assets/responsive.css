@@ -1,0 +1,46 @@
+@media(max-width:1024px) {
+    .cervices-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footer-middle {
+        grid-template-columns: repeat(2, 1fr)
+    }
+
+    .get-started-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .get-started-content {
+        height: auto;
+        padding-bottom: 70px;
+    }
+}
+
+@media(max-width:590px) {
+    .footer-middle {
+        grid-template-columns: repeat(1, 1fr)
+    }
+
+}
+
+@media(max-width:375px) {
+    .cervices-list {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .services-title {
+        margin-top: 0px;
+    }
+
+    .get-started-title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .footer-mail {
+        font-size: 16px;
+    }
+
+}
