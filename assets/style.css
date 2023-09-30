@@ -65,6 +65,12 @@ header {
 
 /*media*/
 
+@media (max-width: 500px) {
+    .hero-content h1 {
+        font-size: 52px;
+    }
+}
+
 @media (max-width: 375px) {
 
     .hero-content h1 {
